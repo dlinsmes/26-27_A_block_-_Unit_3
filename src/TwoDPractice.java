@@ -3,7 +3,7 @@ public class TwoDPractice {
 
         //declaring with the dimensions rather than the
         //exact values
-        //20 rows, 10 cols
+        //10 rows, 20 cols
         int [][] nums = new int [10][20];
 
         //fill nums with all values of 10
